@@ -1,0 +1,18 @@
+2023-04-15 19:29:43,821 [INFO] coffee.order.CoffeeOrderBoard.add(CoffeeOrderBoard.java:22) [main] new order : 1 | cat1
+2023-04-15 19:29:43,824 [INFO] coffee.order.CoffeeOrderBoard.add(CoffeeOrderBoard.java:22) [main] new order : 2 | cat2
+2023-04-15 19:29:43,824 [INFO] coffee.order.CoffeeOrderBoard.add(CoffeeOrderBoard.java:22) [main] new order : 3 | cat3
+2023-04-15 19:29:43,824 [INFO] coffee.order.CoffeeOrderBoard.add(CoffeeOrderBoard.java:22) [main] new order : 4 | cat4
+2023-04-15 19:29:43,824 [INFO] coffee.order.CoffeeOrderBoard.add(CoffeeOrderBoard.java:22) [main] new order : 5 | cat5
+2023-04-15 19:29:43,825 [INFO] coffee.order.CoffeeOrderBoard.add(CoffeeOrderBoard.java:22) [main] new order : 6 | cat6
+2023-04-15 19:29:43,825 [INFO] coffee.order.CoffeeOrderBoard.add(CoffeeOrderBoard.java:22) [main] new order : 7 | cat7
+2023-04-15 19:29:43,825 [INFO] coffee.order.CoffeeOrderBoard.add(CoffeeOrderBoard.java:22) [main] new order : 8 | cat8
+2023-04-15 19:29:43,825 [INFO] coffee.order.CoffeeOrderBoard.deliver(CoffeeOrderBoard.java:31) [main] order delivered : 1 | cat1
+2023-04-15 19:29:43,825 [INFO] coffee.order.CoffeeOrderBoard.deliver(CoffeeOrderBoard.java:31) [main] order delivered : 2 | cat2
+2023-04-15 19:29:43,825 [INFO] coffee.order.CoffeeOrderBoard.deliver(CoffeeOrderBoard.java:31) [main] order delivered : 3 | cat3
+2023-04-15 19:29:43,827 [INFO] coffee.order.CoffeeOrderBoard.deliver(CoffeeOrderBoard.java:39) [main] order delivered out of order : 6 | cat6
+2023-04-15 19:29:43,835 [INFO] coffee.order.CoffeeOrderBoard.draw(CoffeeOrderBoard.java:49) [main] queue display request : 
+ [4 | cat4
+, 5 | cat5
+, 7 | cat7
+, 8 | cat8
+]
